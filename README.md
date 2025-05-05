@@ -27,6 +27,6 @@ This project provides efficient algorithms for working with arrays, including fi
 	dotnet test --logger "console;verbosity=detailed"
 3. Filtering Tests
 	```bash
-	dotnet test --filter ""FindSumOfTwoSmallestNumbers_OnHugeArray"
+	dotnet test --filter "FindSumOfTwoSmallestNumbers_OnHugeArray"
 
 #### More about [dotnet test](https://learn.microsoft.com/ru-ru/dotnet/core/tools/dotnet-test?tabs=dotnet-test-with-vstest)
